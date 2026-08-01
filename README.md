@@ -1,0 +1,1 @@
+To analyze sales and profit data using Power BI and create an interactive dashboard that helps identify sales trends, profitable products and categories, and overall business performance, enabling better data-driven decision-making.
